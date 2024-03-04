@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align='center'>
   <h1>Welcome to Jaemin Github</h1>
-  <img src="![welcome-back-6887_256](https://github.com/Jaemm/Jaemm/assets/94304285/4a436140-225a-4a00-9ef6-e8e38a0a9e70)"/>
+  <img src="![welcome-back-6887_256](https://github.com/Jaemm/Jaemm/assets/94304285/4a436140-225a-4a00-9ef6-e8e38a0a9e70)" alt="welcome GIF"/>
   <p>Tech stack</p>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
