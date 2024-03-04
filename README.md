@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-SKILL
+Skill
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=React&logoColor=white"/> 
