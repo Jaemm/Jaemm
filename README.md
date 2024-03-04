@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--SKILL-
+SKILL
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
--VELOG LINK-
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=React&logoColor=white"/> 
 <link>https://velog.io/@jmmch/posts<link/>
 
