@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align='center'>
-  <h1>Welcome to Jaemin Github</h1>
+<!--   <h1>Welcome to Jaemin Github</h1> -->
   <img src="welcome-back-6887_256.gif" alt="welcome GIF"/>
   <p>Tech stack</p>
   <div>
