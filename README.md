@@ -23,8 +23,11 @@ Here are some ideas to get you started:
   <div>
   <br><br/> 
   <p>Contact</p>
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=React&logoColor=white"/> 
-  
+  <div>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=React&logoColor=white"/> 
+  <div/>
+  <br/> 
+  <p>Github State<p/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaemm&show_icons=true&theme=radical)
 <div/>
 
