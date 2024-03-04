@@ -25,7 +25,9 @@ Here are some ideas to get you started:
   <br/> 
   <p>Contact</p>
   <div>
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=React&logoColor=white" link="https://velog.io/@jmmch/posts"/> 
+    <a href="https://velog.io/@jmmch/posts">
+      <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=React&logoColor=white" alt="Velog" />
+    </a>
   </div>
   <br/> 
   <p>Github State</p>
