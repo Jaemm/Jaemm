@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <h1>Welcome to Jaemin Github<h1/>
   <p>Tech stack</p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-    
+  <br><br/> 
   <p>Contact</p>
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=React&logoColor=white"/> 
   
