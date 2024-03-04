@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+-SKILL-
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=React&logoColor=white"/>
+-VELOG LINK-
+<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=React&logoColor=white"/> <link>https://velog.io/@jmmch/posts<link/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaemm&show_icons=true&theme=radical)
