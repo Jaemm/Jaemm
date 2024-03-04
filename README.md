@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align='center'>
-  <h1>Welcome to Jaemin Github<h1/>
+  <h1>Welcome to Jaemin Github</h1>
   <p>Tech stack</p>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -28,7 +28,8 @@ Here are some ideas to get you started:
   </div>
   <br/> 
   <p>Github State</p>
-    
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaemm&show_icons=true&theme=radical)
+  <div>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaemm&show_icons=true&theme=radical)
+  </div>   
 </div>
 
