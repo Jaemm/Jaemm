@@ -30,8 +30,8 @@ Here are some ideas to get you started:
     </a>
   </div>
   <br/> 
-  <p>Github State</p>
+<!--   <p>Github State</p>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaemm&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaemm&show_icons=true&theme=radical) -->
 </div>
 
