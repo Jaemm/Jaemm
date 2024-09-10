@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 -->
 <div align='center'>
   <h1>Welcome to Jaemin Github</h1>
-  <p>Tech stack</p>
+  <p>기술</p>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   </div>
   <br/> 
-  <p>Contact</p>
+<!--   <p>Contact</p>
   <div>
     <a href="https://velog.io/@jmmch/posts">
       <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog" />
     </a>
-  </div>
+  </div> -->
   <br/> 
 <!--   <p>Github State</p>
   
