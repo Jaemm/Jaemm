@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align='center'>
+<div align='left'>
   <h1>👋 안녕하세요, 웹 개발자 최재민입니다.</h1>
   <p>스킬</p>
   <div>
