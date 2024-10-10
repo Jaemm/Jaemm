@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align='center'>
   <h1>👋 안녕하세요, 웹 개발자 최재민입니다.</h1>
-  <p>사용기술</p>
+  <p>스킬</p>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
