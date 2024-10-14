@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align='left'>
-
+##  🙋 About Me
+* 프로젝트와 팀의 목표에 가장 부합한 것을 따라가는 개발자
+* 개발자의 시선이 아닌 사용자의 경험을 중요시 생각하는 개발자
+* 프로덕트 중심으로 사고하는 개발자
+* 유지 보수에 용이한 코드에 관심이 많은 개발자
   <h1>👋 안녕하세요, 개발자 최재민입니다.</h1>
   <h2> About Me <h2/>
-    ##  About ME
   - asdf
   
   - asdf
