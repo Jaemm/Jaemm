@@ -22,15 +22,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   </div>
   <br/> 
-<!--   <p>Contact</p>
+  <p>Contact</p>
   <div>
     <a href="https://velog.io/@jmmch/posts">
       <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog" />
     </a>
-  </div> -->
+  </div>
   <br/> 
-<!--   <p>Github State</p>
+ <p>Github State</p>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaemm&show_icons=true&theme=radical) -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaemm&show_icons=true&theme=radical)
 </div>
 
