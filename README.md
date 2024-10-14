@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 <div align='left'>
 
   <h1>👋 안녕하세요, 개발자 최재민입니다.</h1>
+  - asdf
+  - asdf
+  - afdsf
+  - asdf
   <h2> 스킬 <h2/>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
