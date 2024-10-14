@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align='left'>
+  ![image](https://github.com/user-attachments/assets/c3d74205-ae6a-4134-b1b7-2174455a40fe)
+
   <h1>👋 안녕하세요, 웹 개발자 최재민입니다.</h1>
   <h2> 스킬 <h2/>
   <div>
