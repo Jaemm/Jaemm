@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 <div align='left'>
   <h1>👋 안녕하세요, 개발자 최재민입니다.</h1>
   <h2> About Me <h2/>
+    
   - [2022.04 - 2024.09]퍼스트씨앤디(Full-stack)
+  - 
       <div>
     저에 대해 더 알고 싶다면
     <a href="https://velog.io/@jmmch/posts">
