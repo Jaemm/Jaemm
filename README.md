@@ -16,15 +16,7 @@ Here are some ideas to get you started:
 <div align='left'>
   <h1>👋 안녕하세요, 개발자 최재민입니다.</h1>
   <h2> About Me <h2/>
-    
   - [2022.04 - 2024.09]퍼스트씨앤디(Full-stack)
-    
-<div>
-  저에 대해 더 알고 싶다면
-    <a href="https://jaeminscript.vercel.app">
-      <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog" />
-    </a>에 놀러오세요!
-</div>
   
   <h2> My Stack <h2/>
   <div>
