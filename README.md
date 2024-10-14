@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
   <h1>👋 안녕하세요, 개발자 최재민입니다.</h1>
   - asdf
+  
   - asdf
+    
   - afdsf
+    
   - asdf
   <h2> 스킬 <h2/>
   <div>
