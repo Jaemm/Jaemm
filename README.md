@@ -24,11 +24,11 @@ Here are some ideas to get you started:
   <br/> 
   <h2> Contact <h2/>
   <div>
-    <p>저에 대해 더 알고 싶다면<p/>
+    저에 대해 더 알고 싶다면
     <a href="https://velog.io/@jmmch/posts">
       <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog" />
     </a>
-      <p>에 놀러오세요!<p/>
+      에 놀러오세요!
   </div>
   <br/> 
  <p>Github State</p>
