@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <div align='left'>
   <h1>👋 안녕하세요, 개발자 최재민입니다.</h1>
   <h2> About Me <h2/>
-  - [2022.04 - 2024.09]퍼스트씨앤디(Full-stack)
-  
+  - [2022.04 - 2024.09] 퍼스트씨앤디 (Full-stack)
+  - [2019.11 - 2021.11] SK네트웍스서비스 (SQA)
   <h2> My Stack <h2/>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
