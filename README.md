@@ -25,7 +25,13 @@ Here are some ideas to get you started:
   - afdsf
     
   - asdf
-    
+      <div>
+    저에 대해 더 알고 싶다면
+    <a href="https://velog.io/@jmmch/posts">
+      <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog" />
+    </a>
+      에 놀러오세요!
+  </div>
   <h2> My Stack <h2/>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -33,15 +39,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   </div>
   <br/> 
-    
-  <h2> Contact <h2/>
-  <div>
-    저에 대해 더 알고 싶다면
-    <a href="https://velog.io/@jmmch/posts">
-      <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog" />
-    </a>
-      에 놀러오세요!
-  </div>
   <br/> 
  <p>Github State</p>
   
