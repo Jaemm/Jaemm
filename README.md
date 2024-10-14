@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <div align='left'>
 
   <h1>👋 안녕하세요, 개발자 최재민입니다.</h1>
-  
+  <h2> About Me <h2/>
+    
   - asdf
   
   - asdf
@@ -24,6 +25,7 @@ Here are some ideas to get you started:
   - afdsf
     
   - asdf
+    
   <h2> My Stack <h2/>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -31,6 +33,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   </div>
   <br/> 
+    
   <h2> Contact <h2/>
   <div>
     저에 대해 더 알고 싶다면
