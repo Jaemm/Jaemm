@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   - afdsf
     
   - asdf
-  <h2> 스킬 <h2/>
+  <h2> My Stack <h2/>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
