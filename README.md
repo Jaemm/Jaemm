@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align='left'>
-  <h1>👋 안녕하세요, 개발자 최재민입니다.</h1>
+  <h1>👋 안녕하세요, BE개발자 최재민입니다.</h1>
   <h2> My Stack <h2/>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
